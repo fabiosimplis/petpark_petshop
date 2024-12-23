@@ -43,3 +43,10 @@
     flex: 1 0 200px;
 }
 
+.formulario-input:user-valid {
+    border: 2px solid var(--cor-terciaria-dark);
+}
+
+.formulario-input:user-invalid {
+    border: 2px solid var(--cor-primaria-dark);
+}
