@@ -1,3 +1,6 @@
+@import url('./css/cabecalho.css');
+@import url('./css/destaque.css');
+
 body {
     font-family: 'Poppins', sans-serif;
     color: #444444;
